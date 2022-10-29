@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 *{
     padding: 0;
@@ -12,8 +13,8 @@ html {
 }
 
 body {
-  font-family: 'https://fonts.googleapis.com/css?family=Montserrat' !important;
-  font-family: "Montserrat" !important;
+  font-family: "https://fonts.googleapis.com/css?family=Montserrat" !important;
+  font-family: "Montserrat,sans-serif" !important;
 }
 body p {
   font-weight: 600;
