@@ -13,8 +13,8 @@ html {
 }
 
 body {
-  font-family: "https://fonts.googleapis.com/css?family=Montserrat" !important;
-  font-family: "Montserrat,sans-serif" !important;
+  /* font-family: "https://fonts.googleapis.com/css?family=Montserrat" !important; */
+  /* font-family: "Montserrat", sans-serif !important; */
 }
 body p {
   font-weight: 600;
